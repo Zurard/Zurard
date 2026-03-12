@@ -1,74 +1,60 @@
-# Zurard
+<h1 align="center">Zurard</h1>
 
-Full-stack developer focused on backend systems, developer tools, and modern web applications.  
-Most of my work revolves around TypeScript ecosystems, system design, and building experimental tools.
+<h4 align="center">Full-stack developer building systems, tools, and experimental web platforms</h4>
 
----
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=00ffef&style=flat" />
+</p>
 
-## Frameworks and Tools
+- Email: <b>your.email@example.com</b> <br />
+- Currently working on backend systems and developer tooling <br />
+- Interested in systems programming, search engines, and web infrastructure
+
+<h3 align="left">Platforms</h3>
+
+- Discord: yourusername <br>
+- Instagram: yourhandle <br>
+- LinkedIn: https://linkedin.com/in/YOUR_LINK
+
+<h3 align="center">Toolset</h3>
 
 <p align="center">
 
-<a href="https://nextjs.org">
-<img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white"/>
-</a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50">
 
-<a href="https://react.dev">
-<img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB"/>
-</a>
+<br>
 
-<a href="https://www.typescriptlang.org">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/>
-</a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50">
 
-<a href="https://nodejs.org">
-<img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white"/>
-</a>
+<br>
 
-<a href="https://www.postgresql.org">
-<img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white"/>
-</a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50" height="50">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50">
 
-<a href="https://supabase.com">
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white"/>
-</a>
+<br>
 
-<a href="https://redis.io">
-<img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white"/>
-</a>
-
-<a href="https://www.docker.com">
-<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
-</a>
-
-<a href="https://git-scm.com">
-<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
-</a>
-
-<a href="https://www.linux.org">
-<img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"/>
-</a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50">
 
 </p>
 
----
-
-## GitHub Statistics
+<h3 align="center">GitHub Statistics</h3>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true">
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true">
 </p>
-
----
-
-## Contact
-
-LinkedIn  
-https://linkedin.com/in/YOUR_LINK
-
-Email  
-your.email@example.com
