@@ -1,52 +1,55 @@
-<h1 align="center">Zurard</h1>
+<div align="center">
 
-<h4 align="center">Full-stack developer building systems, tools, and experimental web platforms</h4>
+<!-- Animated header banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:00ffef&height=120&section=header&text=Zurard&fontSize=60&fontColor=ffffff&fontAlignY=65&animation=fadeIn&desc=full-stack%20%2F%20systems%20%2F%20infrastructure&descSize=14&descAlignY=85&descColor=00ffef" />
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=00ffef&style=flat" />
-</p>
+<!-- Typing animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=00FFEF&center=true&vCenter=true&width=500&lines=Building+systems+that+actually+scale.;Backend+%7C+DevTooling+%7C+Infrastructure;Search+engines.+Web+platforms.+Low-level+code." alt="Typing SVG" />
+</a>
 
-- Email: <b>zururd07.com</b> <br />
-- Currently working on backend systems and developer tooling <br />
-- Interested in systems programming, search engines, and web infrastructure
+<br/>
 
-<h3 align="left">Platforms</h3>
+<!-- Badges -->
+<img src="https://komarev.com/ghpvc/?username=Zurard&label=profile+views&color=00ffef&style=flat-square" />
+&nbsp;
+<a href="mailto:zururd07.com"><img src="https://img.shields.io/badge/email-zururd07.com-00ffef?style=flat-square&logo=gmail&logoColor=white" /></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/shreetej-meshram-8abb922a3"><img src="https://img.shields.io/badge/LinkedIn-Shreetej_Meshram-0077B5?style=flat-square&logo=linkedin" /></a>
+&nbsp;
+<a href="https://www.instagram.com/shreeeetejj"><img src="https://img.shields.io/badge/Instagram-@shreeeetejj-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
 
-- Instagram: https://www.instagram.com/shreeeetejj?igsh=MXhzZXBoa2pseHRreQ== <br>
-- LinkedIn: www.linkedin.com/in/shreetej-meshram-8abb922a3
+</div>
 
-<h3 align="center">Toolset</h3>
+---
+```txt
+> whoami
+  zurard — full-stack developer focused on backend systems & developer tooling
+  currently: backend infrastructure · search engines · web platforms
+```
 
-<p align="center">
+---
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50">
+<h3 align="center">⚙️ Toolset</h3>
 
-<br>
+<div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50" height="50">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50">
+**Languages**
 
-</p>
+<img src="https://skillicons.dev/icons?i=c,python,ts,js,java,html,css&theme=dark" />
 
-<h3 align="center">GitHub Statistics</h3>
+**Frameworks & Runtime**
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Zurard&show_icons=true&hide_border=true">
-</p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs&theme=dark" />
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zurard&layout=donut-vertical&hide_border=true">
-</p>
+**Data & Infrastructure**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,git,github,linux&theme=dark" />
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffef,100:0d0d0d&height=80&section=footer" />
+</div>
