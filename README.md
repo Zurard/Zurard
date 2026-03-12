@@ -6,15 +6,14 @@
 <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=00ffef&style=flat" />
 </p>
 
-- Email: <b>your.email@example.com</b> <br />
+- Email: <b>zururd07.com</b> <br />
 - Currently working on backend systems and developer tooling <br />
 - Interested in systems programming, search engines, and web infrastructure
 
 <h3 align="left">Platforms</h3>
 
-- Discord: yourusername <br>
-- Instagram: yourhandle <br>
-- LinkedIn: https://linkedin.com/in/YOUR_LINK
+- Instagram: zurard <br>
+- LinkedIn: www.linkedin.com/in/shreetej-meshram-8abb922a3
 
 <h3 align="center">Toolset</h3>
 
@@ -39,7 +38,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50" height="50">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50">
 
 <br>
 
@@ -52,9 +50,9 @@
 <h3 align="center">GitHub Statistics</h3>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api?username=Zurard&show_icons=true&hide_border=true">
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zurard&layout=compact&hide_border=true">
 </p>
